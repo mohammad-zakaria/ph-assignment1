@@ -99,6 +99,7 @@ footer{
     padding:20px;
     background-image: url("../images/chat-bg.png");
     background-repeat: repeat;
+    background-position: center;
     height: 80%;
     width: 80%;
     margin: 60px 20px 20px 80px;
